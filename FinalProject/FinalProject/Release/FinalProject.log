@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(350,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(483,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(484,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(488,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(489,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(491,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(492,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(502,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(809,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(855,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(947,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(947,25): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(961,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(972,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(1013,69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(1014,69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(1015,70): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(1016,71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(1063,70): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(1065,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\s_van\Projects\FinalProject\FinalProject\Source.cpp(1067,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  0 of 357 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FinalProject.vcxproj -> C:\Users\s_van\Projects\FinalProject\Release\FinalProject.exe
